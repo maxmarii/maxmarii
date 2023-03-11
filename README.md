@@ -28,7 +28,7 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 - Python
 - Java
 - C
-- HTML5/CCS3
+- HTML5/CSS3
 - Javascript
 - Node.js
 - Docker
