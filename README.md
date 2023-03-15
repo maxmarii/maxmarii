@@ -10,7 +10,7 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 
 - 🤓 Bachelor's degree in **Biological Science** at Università degli Studi di Palermo, actually I'm a **Software Engineer student** at Università degli Studi di Palermo.
 - Interests: Data Analysis, Web Developing, Cloud Computing 
-- I love animals 🐶,reading books 📖, AoT and other anime 📺, Writing some stuff ✍️, Inter Milan ⚽, and Final Fantasy X, which is my favourite videogame of all time. So, if you see Yuna's propic in my socials, that's why.
+- I love animals 🐶,reading books 📖, AoT and other anime 📺, Writing some stuff ✍️, Inter Milan ⚽, and Final Fantasy X 🎮, which is my favourite videogame of all time. So, if you see Yuna's propic in my socials, that's why.
 
 ## 💡 What I'm working on
   - Learning Python
