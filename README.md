@@ -16,7 +16,7 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
   - Learning Python
   - Learning Java
   - Writing Final Fantasy X|X-2 guides
-  - DLearning Web Development
+  - Learning Web Development
 
 ## My skills
 - Python
@@ -24,6 +24,5 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 - C
 - HTML5/CSS3
 - Javascript
-- Node.js
-- Docker
 - LaTex
+- Markdown
