@@ -7,7 +7,7 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 
 <h2>About me</h2>
 
-- 🤓 Bachelor's degree in **Biological Science** at Università degli Studi di Palermo, actually I'm a **Software Engineer student** at Università degli Studi di Palermo.
+- Bachelor's degree in **Biological Science** at Università degli Studi di Palermo, actually I'm a **Software Engineer student** at Università degli Studi di Palermo.
 - Interests: Bioinformatics, Data Analysis, Web Developing, Cloud Computing
 - Love animals, reading books, writing some stuff, Inter Milan and retro-gaming.
 - I love JRPG, in particular Final Fantasy X series. So, if you see Yuna's propic in my social media, that's why.
@@ -23,8 +23,11 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 
 
 <h2>Language and Tools</h2>
-<i class="devicon-docker-plain"></i>
 
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,nodejs,vscode,linux,mysql,c,java,docker,)](https://skillicons.dev)
+
+
+<br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunac&show_icons=true&theme=dracula)](https://github.com/yuunac/github-readme-stats)
 
