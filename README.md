@@ -7,7 +7,7 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 
 <h2>About me</h2>
 
-- Bachelor's degree in **Biological Science** at Università degli Studi di Palermo, actually I'm a **Software Engineer student** at Università degli Studi di Palermo.
+- Bachelor's degree in **Biological Science** at Università degli Studi di Palermo, actually I'm a **Software Engineering student** at Università degli Studi di Palermo.
 - Interests: Bioinformatics, Data Analysis, Web Developing, Cloud Computing
 - Love animals, reading books, writing some stuff, Inter Milan and retro-gaming.
 - I love JRPG, in particular Final Fantasy X series. So, if you see Yuna's propic in my social media, that's why.
