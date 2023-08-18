@@ -3,10 +3,10 @@
 I wanted to write a fun description to make you laugh but, unfortunately, I'm not _so_ funny.
 So, I will do a _standard_, _boring_, _short_ description of myself (will it be?)
 
-<img src="http://www.ffbegif.com/Yuna/210000205%20Idle.png" align="left" width="50" height="50"> **About me**
 
 <hr></hr>
-
+**About me**
+<img src="http://www.ffbegif.com/Yuna/210000205%20Idle.png" align="left" width="50" height="50">
 - 🤓 Bachelor's degree in **Biological Science** at Università degli Studi di Palermo, actually I'm a **Software Engineer student** at Università degli Studi di Palermo.
 - Interests: Bioinformatics, Data Analysis, Web Developing, Cloud Computing
 - Love animals, reading books, writing some stuff, Inter Milan and retro-gaming.
