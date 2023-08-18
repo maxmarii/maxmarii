@@ -19,7 +19,7 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
   - Writing Final Fantasy X|X-2 guides
   - Learning Web Development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunac)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunac)](https://github.com/yuunac/github-readme-stats)
 
 
 ## My skills
