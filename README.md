@@ -26,6 +26,6 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 <i class="devicon-docker-plain"></i>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunac)](https://github.com/yuunac/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunac&show_icons=true&theme=dracula)](https://github.com/yuunac/github-readme-stats)
 
                   
