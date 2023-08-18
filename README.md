@@ -1,4 +1,4 @@
-<h1>Hi, everyone!I'm Maria</h2>
+<h1>Hi, everyone!I'm Maria</h1>
 
 <img src="http://www.ffbegif.com/Yuna/210000205%20Idle.png" align="left" width="50" height="50">
 
