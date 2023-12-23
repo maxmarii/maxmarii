@@ -14,6 +14,7 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 
 
 <h2>What I'm working on</h2> 
+
   - Learning Python, in particular Numpy and Pandas
   - Learning Java
   - Writing Final Fantasy X|X-2 guides
