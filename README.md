@@ -25,7 +25,9 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 
 <h2>Language and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,nodejs,vscode,linux,mysql,c,java,docker,)](https://skillicons.dev)
+[![Languages I know](https://skillicons.dev/icons?i=py,js,ts,html,css,bootstrap,react,c,java,mysql,mongodb,py,sklearn)](https://skillicons.dev)
+
+[![Tools I use](https://skillicons.dev/icons?i=nodejs,express,vscode,linux,docker,postman,anaconda,pycharm)](https://skillicons.dev)
 
 
 <br></br>
