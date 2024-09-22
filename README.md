@@ -14,20 +14,18 @@ So, I will do a _standard_, _boring_, _short_ description of myself (will it be?
 
 
 <h2>What I'm working on</h2> 
-
-  - Learning Python, in particular Numpy and Pandas
-  - Learning Java
-  - Writing Final Fantasy X|X-2 guides
-  - Improve my Javascript skills
-  - Learning MondoDB
+  - Learning machine and deep learning;
+  - Learning advanced statistics;
+  - Learning front-end development;
+  - Learning DevOps principles.
 
 
 
 <h2>Language and Tools</h2>
 
-[![Languages I know](https://skillicons.dev/icons?i=py,js,ts,html,css,bootstrap,react,c,java,mysql,mongodb,py,sklearn)](https://skillicons.dev)
+[![Languages I know](https://skillicons.dev/icons?i=py,js,ts,html,css,bootstrap,react,c,java,mysql,mongodb,py,sklearn,redux,tailwind)](https://skillicons.dev)
 
-[![Tools I use](https://skillicons.dev/icons?i=nodejs,express,vscode,linux,docker,postman,anaconda,pycharm)](https://skillicons.dev)
+[![Tools I use](https://skillicons.dev/icons?i=nodejs,express,vscode,linux,docker,postman,anaconda,pycharm,figma,androidstudio)](https://skillicons.dev)
 
 
 <br></br>
