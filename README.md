@@ -1,4 +1,3 @@
-<img src="[http://www.ffbegif.com/Yuna/210000205%20Idle.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Fbd59887d-6990-4a04-b08f-b3c216a4197b%2F210000205_Win_Before.gif?table=custom_emoji&id=13a55bb4-ecb9-805b-87c9-007aafef690f&spaceId=962d5771-1939-4b72-8da3-7787fed75f27&userId=59b3eea0-9c6e-4502-bb80-10ceb922f12d&cache=v2)" align="left" width="70" height="70">
 
 I wanted to write a fun description to make you laugh but, unfortunately, I'm not _so_ funny.
 So, I will do a _standard_, _boring_, _short_ description of myself (will it be?)
