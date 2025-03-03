@@ -1,14 +1,8 @@
-
-I wanted to write a fun description to make you laugh but, unfortunately, I'm not _so_ funny.
-So, I will do a _standard_, _boring_, _short_ description of myself (will it be?)
-
 <h2>About me</h2>
 
 <ul>
   <li>Bachelor's Degree in <b>Biological Science</b> at Università degli Studi di Palermo, actually I'm a <b>Software Engineering</b> student at Università degli Studi di Palermo</li>
   <li>Interests: Bioinformatics, Data Analysis, Web Developing, Cloud Computing</li>
-  <li>Love animals, reading books, writing some stuff, Inter Milan and retro-gaming.</li>
-  <li>I love JRPG, in particular Final Fantasy X series. So, if you see Yuna's propic in my social media, that's why.</li>
 </ul>
 
 
