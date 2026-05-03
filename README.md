@@ -2,14 +2,13 @@
 
 <ul>
   <li>Bachelor's Degree in <b>Biological Science</b> at Università degli Studi di Palermo, actually I'm a <b>Software Engineering</b> student at Università degli Studi di Palermo</li>
-  <li>Interests: Bioinformatics, Data Analysis, Web Developing, Cloud Computing</li>
+  <li>Interests: Bioinformatics, Data Science, Cloud Computing</li>
 </ul>
 
 
 <h2>What I'm working on</h2> 
   - Learning machine and deep learning;
   - Learning advanced statistics;
-  - Learning front-end development;
   - Learning DevOps principles.
 
 
